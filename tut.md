@@ -65,3 +65,8 @@ Everyone should meet with client during client meeting\
 Members should know what each others are doing
 
 Backup plans
+
+# Mistake:
+- Staring the development process before thoroughly clarifying and understanding stakeholders' requirements.
+
+# Lesson: I have now learnt that I cannot think of my ability, but of the team if I am to be successful in industry
